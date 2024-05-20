@@ -1,6 +1,6 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-# IOS_App-I-am-Rich
+# I am Rich 💎
 
 ## Goal's Project 🎯
 
