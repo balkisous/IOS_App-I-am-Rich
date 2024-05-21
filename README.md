@@ -7,7 +7,7 @@
 In this module I remade an app aldready created with UIKit but this time using SwiftUI for learning about this concept. 
 This project refers about the famous app in the appStore "I am Rich" who was sell at an excessively expensive price with only a view implemented without back-end. It was an app only to show off or show that a person was rich.
 
-## What I create 🧱
+## What I created 🧱
 
 I build a simple visual app, it has just shown only a View, of a wonderfull wealthy man.
 
