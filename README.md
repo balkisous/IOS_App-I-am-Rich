@@ -15,6 +15,10 @@ I build a simple visual app, it has just shown only a View, of a wonderfull weal
 
 * Learn how to use SwiftUI
 
+## Excepted View
+<img width="349" alt="Screenshot 2024-06-03 at 22 48 30" src="https://github.com/balkisous/IOS_App-I-am-Rich/assets/76943138/178dea99-8a3e-4f49-8c76-a3c54b97ad8a">
+
+
 >I made this project with App Brewery's Complete App Development Bootcamp.
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
